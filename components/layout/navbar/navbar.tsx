@@ -79,10 +79,10 @@ export default function Navbar() {
                   </MenuButton>
                   <MenuList>
                     <MenuItem><a target="_blank" rel="noopener noreferrer nofollow"
-                      href="https://apy-shop.herokuapp.com">
-                      Django-material</a></MenuItem>
+                      href="https://magnolia-app.herokuapp.com">
+                      Django</a></MenuItem>
                     <MenuItem ><a target="_blank" rel="noopener noreferrer nofollow"
-                      href="https://devtech46.github.io/app">React js</a></MenuItem>
+                      href="https://devtech46.github.io/app">React</a></MenuItem>
                     <MenuDivider />
                   </MenuList>
                 </Menu>
@@ -127,11 +127,9 @@ export default function Navbar() {
                   </MenuButton>
                   <MenuList>
                     <MenuItem><a target="_blank" rel="noopener noreferrer nofollow"
-                      href="https://marcoselian.github.io/Game2D">Game_2D</a></MenuItem>
+                      href="https://magnolia-app.herokuapp.com">Django</a></MenuItem>
                     <MenuItem><a target="_blank" rel="noopener noreferrer nofollow"
-                      href="https://marcoselian.github.io/Game3D">Game_3D</a></MenuItem>
-                    <MenuItem ><a target="_blank" rel="noopener noreferrer nofollow"
-                      href="https://studiosur46.github.io/app">React_js</a></MenuItem>
+                      href="https://devtech46.github.io/app">React</a></MenuItem>
                     <MenuDivider />
                   </MenuList>
                 </Menu>

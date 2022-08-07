@@ -74,7 +74,7 @@ export default function Contact() {
                                                 color="#DCE2FF"
                                                 _hover={{ border: '2px solid #1C6FEB' }}
                                                 leftIcon={<MdLocationOn color="#1970F1" size="20px" />}>
-                                                Ushuaia, Argentina
+                                                Cordoba, Argentina
                                             </Button>
                                         </VStack>
                                     </Box>
